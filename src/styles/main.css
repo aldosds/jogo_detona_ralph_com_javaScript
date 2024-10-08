@@ -1,0 +1,10 @@
+@import './_reset.css';
+@import './_menu.css';
+@import './_panel.css';
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url('../images/parede.jpeg');
+}
